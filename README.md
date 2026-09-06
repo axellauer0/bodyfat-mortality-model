@@ -17,10 +17,11 @@ Compares the models C-indexes
 ## Result
 All three land within ~0.005 (C-index ≈ 0.80). Once age and sex are controlled, DEXA, BMI + waist, and the noisy AI estimate perform almost all equivalently. Takeaway: for mortality ranking, the expensive scan isn't worth the high costs and a phone estimate wouldn't lose meaningful signal, but a BMI + waist circumference reading performs just as well if not better.
 
-Model                      C-index
-BMI + waist                0.8043
-AI body fat (1000 sim)     0.7993
-DEXA                       0.7993
+| Model | C-index |
+|-------|---------|
+| BMI + waist | 0.8043 |
+| AI body fat (sim) | 0.7991 |
+| DEXA | 0.7993 |
 
 ## Notes
 - DEXA data had 5 scans per participant, collapsed by averaging.
