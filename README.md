@@ -20,7 +20,7 @@ All three land within ~0.005 (C-index ≈ 0.80). Once age and sex are controlled
 | Model | C-index |
 |-------|---------|
 | BMI + waist | 0.8043 |
-| AI body fat (sim) | 0.7991 |
+| AI body fat | 0.7993 |
 | DEXA | 0.7993 |
 
 ## Notes
