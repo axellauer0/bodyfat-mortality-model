@@ -1,4 +1,4 @@
-# BMI vs. AI Body Fat Readings vs. DEXA body fat as a Mortality Rating Factor
+# BMI vs. AI Body Fat Readings vs. DEXA Body Fat as a Mortality Rating Factor
 
 Cox survival analysis testing whether body-fat percentage from DEXA scans is a better predictor for mortality than BMI + waist circumference, and if a simulated AI body-fat estimate from a smartphone could be a cheap and reliable substitute for a DEXA scan.
 
